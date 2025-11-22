@@ -1,3 +1,5 @@
+// rang lib: https://github.com/agauniyal/rang
+
 #ifndef RANG_DOT_HPP
 #define RANG_DOT_HPP
 
