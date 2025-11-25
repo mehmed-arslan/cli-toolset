@@ -10,8 +10,9 @@ executable created in: `build/<build_configuration>/`
 
 ## Topics
 
-virtual functions
-pure virtual functions
-strategy pattern
-#pragma once
-reinterpret_cast
+virtual functions <br>
+pure virtual functions <br>
+strategy pattern <br>
+#pragma once <br>
+reinterpret_cast <br>
+smart pointers, make unique <br>

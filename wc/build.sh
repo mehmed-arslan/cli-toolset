@@ -21,6 +21,6 @@ cd "$BUILD_DIR"
 cmake ..
 cmake --build . --config "$config" 
 cd Release
-./wc.exe -w test.txt
+./wc.exe -m test.txt
 
 read
