@@ -40,6 +40,7 @@ int main(int argc, char *argv[])
     buffer << std::cin.rdbuf();
     input = &buffer;
   } else {
+    // TODO: update dataPath to current dir where .exe is run
     std::string dataPath = "../../data/";
     std::string completeFilePath;
     if (!args.empty() && args.back()[0] != '-') {

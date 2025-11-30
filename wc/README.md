@@ -2,6 +2,8 @@
 
 ## instructions to build on windows
 
+### change datapath in main to current dir
+
 cd into `build` <br>
 `cmake ..` <br>
 `cmake --build . --config Release` <br> or <br>
